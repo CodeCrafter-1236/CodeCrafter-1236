@@ -16,8 +16,5 @@
 - Build real-world applications  
 - Become a Software Developer  
 
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=CodeCrafter-1236&theme=tokyonight)
-
 ## 🔗 GitHub
 https://github.com/CodeCrafter-1236
