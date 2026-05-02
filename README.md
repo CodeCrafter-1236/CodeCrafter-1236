@@ -11,10 +11,13 @@
 - Python Calculator
 - Number Guessing Game (C)
 
-## 📌 Goals
+## 🎯 Goals
 - Improve problem-solving skills  
 - Build real-world applications  
-- Prepare for software developer roles  
+- Become a Software Developer  
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=CodeCrafter-1236&show_icons=true)
 
 ## 🔗 GitHub
 https://github.com/CodeCrafter-1236
