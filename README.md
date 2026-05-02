@@ -17,7 +17,7 @@
 - Become a Software Developer  
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=CodeCrafter-1236&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=CodeCrafter-1236&show_icons=true&theme=default)
 
 ## 🔗 GitHub
 https://github.com/CodeCrafter-1236
