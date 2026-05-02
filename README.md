@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Nithin 👋
 
-<!--
-**CodeCrafter-1236/CodeCrafter-1236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Skills
+- Python, Java, C, C++
+- SQL (MySQL)
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Student Management System (Java)
+- Employee Database System (SQL)
+- Library Management System (C++)
+- Python Calculator
+- Number Guessing Game (C)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Goals
+- Improve problem-solving skills  
+- Build real-world applications  
+- Prepare for software developer roles  
+
+## 🔗 GitHub
+https://github.com/CodeCrafter-1236
